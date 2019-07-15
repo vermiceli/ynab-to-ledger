@@ -10,7 +10,7 @@ Although ledger-cli offers a [CSV import tool](https://www.ledger-cli.org/3.0/do
  * Removes duplicate transfer transactions.  Since YNAB isn't a double entry accounting system, a transfer appears twice in the register, once for each account.  This import tool removes the duplication.
  * Groups split transactions as a single transaction
    * Supports per-line item comments
- * Imports memos a comments
+ * Imports memos as comments
  * Imports accounts as assets or liabilities based on input
  * Internationalization
    * Is able to handle imports from YNAB with various currencies.  Tested $, €, and ден
