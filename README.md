@@ -44,7 +44,7 @@ Before building the repository, please ensure you have the [dotnet 2.2 sdk or la
  * Run the command `./YNABCSVToLedger`
 
 ### Linux
- * Download release from [Releases](https://github.com/vermiceli/ynab-to-ledger/releases/download/v1.0/mac.zip)
+ * Download release from [Releases](https://github.com/vermiceli/ynab-to-ledger/releases/download/v1.0/linux.zip)
  * Extract the zip file
  * Run the command `./YNABCSVToLedger`
 
